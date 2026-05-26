@@ -3,7 +3,7 @@ import os
 
 instances = 1
 os.system("title malware visualiser")
-input("this shows how fast the henri virus increase in size, and is not harmful, continue? ")
+input("this shows how fast the forkbomb increase in size, and is not harmful, continue? ")
 
 while True:
     print(f"There are {instances} tabs open")
